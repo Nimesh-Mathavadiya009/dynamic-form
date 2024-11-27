@@ -1,0 +1,19 @@
+#root{
+    height: 100vh;
+    width: 100%;
+    background-color: bisque;
+}
+
+#main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table{
+    min-height: 100px;
+    width: 250px;
+}
+
